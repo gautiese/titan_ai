@@ -1,1 +1,1 @@
-# titan_ai
+# Titan Artificial Intelligence & Deep Learning
